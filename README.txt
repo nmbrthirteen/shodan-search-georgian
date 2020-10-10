@@ -5,6 +5,7 @@
 
 გამოყენება: sudo apt update
            git clone https://github.com/nmbrthirteen/shodan-search-georgian.git
+           cd shodan-search-georgian
            pip install -r requirements.txt
            python free-shodan.py
 
